@@ -5,3 +5,7 @@ export function test() {
 export function test2() {
   console.log('hooks test2');
 }
+
+export function test3() {
+  console.log('hooks test3');
+}
