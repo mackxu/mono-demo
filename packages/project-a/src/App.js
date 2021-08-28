@@ -3,7 +3,9 @@ import './App.css';
 
 import { a } from '@momo/apis'
 
+import { test } from '@mono/hooks'
 function App() {
+  test()
   return (
     <div className="App">
       <header className="App-header">

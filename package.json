@@ -4,9 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "private": "true",
-  "workspaces": [
-    "packages/*"
-  ],
+  "workspaces": {
+    "packages": ["packages/*"],
+    "nohoist": ["**/@mono/hooks", "**/@mono/hooks/**"]
+  },
   "devDependencies": {
     "lerna": "^4.0.0"
   }
