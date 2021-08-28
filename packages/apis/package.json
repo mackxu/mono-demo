@@ -1,6 +1,6 @@
 {
   "name": "@momo/apis",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "license": "MIT",
   "gitHead": "6f54ff3ece796662e43b76f35fece87feb916771"
