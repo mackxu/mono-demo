@@ -4,5 +4,10 @@
   ],
   "version": "independent",
   "npmClient": "yarn",
+  "command": {
+    "publish": {
+      "noGitReset": false
+    }
+  },
   "useWorkspaces": true
 }
