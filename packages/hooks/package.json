@@ -1,6 +1,6 @@
 {
   "name": "@mono/hooks",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "index.js",
   "license": "MIT",
   "gitHead": "33c4775f5d42c572e7addcab7f1e68fef8d9c70b"
