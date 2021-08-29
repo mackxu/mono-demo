@@ -1,6 +1,6 @@
 {
   "name": "project-b",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "private": true,
   "dependencies": {
     "@momo/apis": "^1.0.9",
