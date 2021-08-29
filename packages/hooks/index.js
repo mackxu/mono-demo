@@ -1,5 +1,5 @@
 export function test() {
-  console.log('hooks-123');
+  console.log('hooks-abc');
 }
 
 export function test2() {
